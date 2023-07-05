@@ -1,4 +1,3 @@
-Sure! In this script, the instructor is explaining key concepts related to the React library, including React Components, JSX (JavaScript Syntax Extension), and props (properties). 
 
 1. **React and Components**: React is a JavaScript library for building user interfaces, particularly single-page applications. You construct the UI using components, which are JavaScript functions or classes that optionally accept inputs, known as "props", and return a React element that describes how a part of the UI should appear.
 

@@ -1,4 +1,3 @@
-This video script is about React components and their definition, specifically the transition from class-based components to functional components with the introduction of React Hooks. Below are key terms you might want to study:
 
 1. **React Components**: Components are independent, reusable pieces in React. They serve as the building blocks of any React application.
 

@@ -1,4 +1,3 @@
-Absolutely. This transcript is discussing React, which is a JavaScript library for building user interfaces, primarily for single-page applications. The main concept discussed here is that of "Components", which is fundamental to React. 
 
 In React, components are the building blocks of any React application. They are reusable pieces of code that return a React element to be rendered to the page.
 

@@ -1,5 +1,3 @@
-The script you shared covers several key concepts related to React and JSX. Below I'll summarize the concepts discussed and provide some code examples to illustrate them.
-
 1. **JSX**: JSX is a syntax extension for JavaScript that resembles HTML. It's used with React to describe what the UI should look like.
 
     For example, a basic JSX syntax could be like this:
